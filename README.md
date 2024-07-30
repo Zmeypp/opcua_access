@@ -41,11 +41,19 @@ from opc_full_connect import create_cert, OPCUAClient
 
 async def main():
 
+    # Create the certificate for OPC connexion
+
     certificate_folder_name = "certificates"
     configuration_name = "cert_conf"
     private_key_name = "pk"
     certificate_name = "cert"
-    create_cert(certificate_folder_name, configuration_name, private_key_name, certificate_name)
+
+    create_cert(
+        certificate_folder_name,
+        configuration_name,
+        private_key_name,
+        certificate_name
+    )
 
     opc_url = "your_url"
     opc_username = "username"
