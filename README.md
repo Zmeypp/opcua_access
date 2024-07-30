@@ -10,11 +10,13 @@ This library provides functionality for connecting to OPC UA servers. It require
 
 Before using this library, you need to install OpenSSL and set up your project directory as follows:
 
+```
 root/
 ├── openssl/
 │ └── bin/
 │ └── openssl.exe
 └── main.py
+```
 
 
 
