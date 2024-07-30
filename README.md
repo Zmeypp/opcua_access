@@ -13,8 +13,7 @@ Before using this library, you need to install OpenSSL and set up your project d
 ```
 root/
 ├── openssl/
-│ └── bin/
-│ └── openssl.exe
+│ └── bin/openssl.exe
 └── main.py
 ```
 
