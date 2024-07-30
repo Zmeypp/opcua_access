@@ -1,5 +1,11 @@
 # OPC UA Client Library
 
+You can install the library via command :
+
+```
+pip install opc-full-connect
+```
+
 ## Overview
 
 This library provides functionality for connecting to OPC UA servers. It requires OpenSSL for cryptographic operations.
