@@ -83,26 +83,3 @@ For issues or questions, please open an issue on GitHub.
 
 ### Acknowledgements
 This library uses OpenSSL for cryptographic functions. Please refer to the OpenSSL website for more information.
-
-
-### Key Points Covered
-
-1. **Project Structure**:
-   - Clearly describes the required directory structure and where `openssl.exe` should be located.
-
-2. **OpenSSL Installation**:
-   - Provides instructions to install OpenSSL on Windows and place it in the correct directory.
-
-3. **Usage Instructions**:
-   - Includes a complete example of how to use the library with comments and print statements in English.
-
-4. **License**:
-   - Specifies the licensing terms under which the library is distributed.
-
-5. **Support**:
-   - Provides information on how users can get help or report issues.
-
-6. **Acknowledgements**:
-   - Credits OpenSSL for its role in the library's functionality.
-
-Feel free to adjust the README content based on specific details about your project or any additional information you wish to include.
